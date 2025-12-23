@@ -31,7 +31,7 @@ The project follows the **Separation of Concerns** principle:
 ## 💻 How to Run Locally
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yes-oggy/Counter]
+    git clone [https://github.com/yes-oggy/Counter.git]
     ```
 2.  **Navigate to the project directory:**
     ```bash
